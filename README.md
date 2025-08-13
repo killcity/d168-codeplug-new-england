@@ -10,7 +10,7 @@ The codeplug defines **1585 channels**.  Each channel specifies the receive freq
 
 | Mode | Count | Description |
 |---|---|---|
-| **Digital (DMR)** | **1 561 channels** | These channels program every NEDECN and BrandMeister repeater within range of New England.  Each entry sets a *Colour Code* (values from 0 to 13) and Time Slot 1 or 2.  The radio transmits at either *Turbo* or *High* power with a 12.5 kHz bandwidth.  Repeater settings are derived from authoritative sources; for example, Shapleigh’s **K1DQ** repeater uses Colour Code 4, while the Sagamore/Bourne **K1RK** repeater uses Colour Code 10. |
+| **Digital (DMR)** | **1561 channels** | These channels program every NEDECN and BrandMeister repeater within range of New England.  Each entry sets a *Colour Code* (values from 0 to 13) and Time Slot 1 or 2.  The radio transmits at either *Turbo* or *High* power with a 12.5 kHz bandwidth.  Repeater settings are derived from authoritative sources; for example, Shapleigh’s **K1DQ** repeater uses Colour Code 4, while the Sagamore/Bourne **K1RK** repeater uses Colour Code 10. |
 | **Analog (FM)** | **24 channels** | A small set of conventional FM repeaters are included for local nets and simplex work.  Each analog channel sets a CTCSS tone for encode/decode, high power and either 12.5 kHz or 25 kHz bandwidth.  Examples include **W1XM MIT (449.725 MHz)**, **W1GLO Gloucester (145.130 MHz)** and **K1BOS Boston (146.820 MHz)**.  These analog channels are collected in a dedicated “Analog R” zone. |
 
 ### Colour codes
