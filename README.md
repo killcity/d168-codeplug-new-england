@@ -4,9 +4,12 @@ This repository contains a **codeplug** for the **Anytone AT D‑168UV** / **Ai
 
 The codeplug focuses on **digital DMR repeaters** connected to the New England Digital Emergency Communications Network (NEDECN) and other BrandMeister talkgroups, but it also includes analog FM repeaters for local nets.
 
-**DO THIS FIRST**: 
-1. Upgrade to v1.07 firmware http://www.wouxun.us/Software/AnyTone-Software/AT-D168UV-v1.07.zip
-2. Set your DMR ID and Callsign in the Radio ID option under "Digital"
+**Quick Instructions**: 
+1. Download the v1.07 firmware and CPS http://www.wouxun.us/Software/AnyTone-Software/AT-D168UV-v1.07.zip
+2. Install CPS, open and upgrade firmware. To put radio in firmware update mode, hold PF1 and PF2 buttons (buttons below PTT) at the same time and power on radio. If it worked, you'll see a flashing red LED
+3. Update firmware through menus in CPS
+4. Set your DMR ID and Callsign in the Radio ID option under "Digital"
+5. Save and write to radio
 
 If you get a mode error, create a new empty codeplug, choose the Model menu dropdown, then choose Commercial Europe as the mode. Save and write to the radio. Then open and load this `.rdt` file, write to radio.
 
