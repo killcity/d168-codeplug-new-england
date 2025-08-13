@@ -6,6 +6,8 @@ The codeplug focuses on **digital DMR repeaters** connected to the New England 
 
 **DO THIS FIRST: Set your DMR ID and Callsign in the Radio ID option under "Digital"**
 
+If you get a mode error, create a new empty codeplug, choose the Model menu dropdown, then choose Commercial Europe as the mode. Save and write to the radio. Then open and load this .rdt file, write to radio.
+
 ## Channel overview
 
 The codeplug defines **1585 channels**.  Each channel specifies the receive frequency, transmit frequency, timeslot (for DMR), colour code and a target talkgroup.  Channels fall into two categories:
