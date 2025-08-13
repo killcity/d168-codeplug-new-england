@@ -1,4 +1,4 @@
-# Anytone D‑168 / Airiton DM-168 New England Codeplug Overview
+# Anytone D‑168 / Airiton DM-168 New England Codeplug Overview - v1.07 FW
 
 This repository contains a **codeplug** for the **Anytone D‑168** / **Airiton DM-168**  handheld radio.  The configuration is tuned for ham operators in the New England area and was built by combining several data sets of repeater information and talkgroups.  The resulting `.rdt` file programs the radio with hundreds of digital repeaters and a small set of analog FM channels, organised into zones for easy navigation.
 
