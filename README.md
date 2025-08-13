@@ -4,6 +4,8 @@ This repository contains a **codeplug** for the **Anytone D‑168** / **Airiton
 
 The codeplug focuses on **digital DMR repeaters** connected to the New England Digital Emergency Communications Network (NEDECN) and other BrandMeister talkgroups, but it also includes analog FM repeaters for local nets.
 
+**DO THIS FIRST: Set your DMR ID and Callsign in the Radio ID option under "Digital"**
+
 ## Channel overview
 
 The codeplug defines **1585 channels**.  Each channel specifies the receive frequency, transmit frequency, timeslot (for DMR), colour code and a target talkgroup.  Channels fall into two categories:
